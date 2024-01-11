@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EletricCarApp</string>
+    <string name="eletric_car_app">Eletric Car App</string>
+    <string name="carros">Carros</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="preco">Preço</string>
+    <string name="bateria">Bateria</string>
+    <string name="potencia">Potência</string>
+    <string name="recarga">Recarga</string>
+    <string name="hint_precokwh">Preço kwh</string>
+    <string name="hint_km_percorrido">Km percorrido</string>
+    <string name="calcular">Calcular</string>
+    <string name="calcular_autonomia">Calcular Autonomia</string>
+    <string name="redirect_calcular_autonomia">Calcular autonomia</string>
+    <string name="response_error">Xii… Algo deu errado :(</string>
+    <string name="sem_conex_o_a_internet">Sem conexão com a internet</string>
+    <string name="saved_calc">saved</string>
+</resources>
